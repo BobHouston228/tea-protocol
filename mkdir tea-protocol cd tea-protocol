@@ -1,0 +1,2 @@
+mkdir public src
+touch public/index.html src/styles.css .gitignore LICENSE README.md
